@@ -1,3 +1,2 @@
 pos.printer=IBM
 port=/dev/ttyS1
-ip=172.16.16.144
