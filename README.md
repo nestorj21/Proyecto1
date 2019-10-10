@@ -14,4 +14,4 @@ git push -u origin master
 
 Se crea en la consola gitbash una nueva rama
 se clona el proyecto en el repositorio y se despliega en la nueva rama en gitbash
-
+se crean branch
